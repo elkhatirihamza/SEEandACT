@@ -1,0 +1,47 @@
+Att-STOP
+Att-cedez le passage
+Att-danger
+Att-eboulement
+Att-intersection ou vous etes prioritaire
+Att-passage animaux sauvages
+Att-passage enfants
+Att-passage pietons
+Att-ralentisseurs
+Att-rond point
+Att-route a double voie
+Att-route glissante
+Att-route prioritaire
+Att-succession de virages
+Att-travaux
+Att-virage a droite
+Att-virage a gauche
+Feu rouge
+Feu vert
+Indic-autoroute
+Indic-circulation a sens unique
+Indic-parking
+Indic-passage pietons
+Indic-station bus
+Inter-arret et stationnement
+Inter-de depasser
+Inter-de faire demi-tour
+Inter-de tourner a droite
+Inter-de tourner a gauche
+Inter-sens
+Inter-stationnement
+Inter-vitesse limitee a -100km-h-
+Inter-vitesse limitee a -120km-h-
+Inter-vitesse limitee a -20km-h-
+Inter-vitesse limitee a -30km-h-
+Inter-vitesse limitee a -40km-h-
+Inter-vitesse limitee a -50km-h-
+Inter-vitesse limitee a -60km-h-
+Inter-vitesse limitee a -80km-h-
+Oblig-continuez a droite
+Oblig-continuez a gauche
+Oblig-continuez tout droit
+Oblig-continuez tout droit ou tournez a droite
+Oblig-continuez tout droit ou tournez a gauche
+Oblig-tournez a droite
+Oblig-tournez a gauche
+Oblig-tournez le rond point
